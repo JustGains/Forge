@@ -9,13 +9,13 @@
 # Forge
 
 Forge is the offline workout generator inside
-[JustGains](https://justgains.com). It's one of three ways the app builds
-training: creator-made programs come first, LLMs handle fully custom workout
-plans, and Forge covers the instant, on-device case that needs no connection
-at all.
+[JustGains](https://justgains.com). The app has three ways to build
+training. Creator-made programs come first, LLMs handle fully custom
+workout plans, and Forge is there for the moments that need a workout
+instantly, on the device, with no connection at all.
 
-Forge itself started as a faithful recreation of the local AI model that
-powers workouts in the Fitbod app. From there we improved it, one measured
+Forge began as a faithful recreation of the local AI model that powers
+workouts in the Fitbod app. From there we kept improving it, one measured
 change at a time.
 
 Three things make it worth a look:
