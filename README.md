@@ -15,8 +15,7 @@ workout plans, and Forge is there for the moments that need a workout
 instantly, on the device, with no connection at all.
 
 Forge began as a faithful recreation of the local AI model that powers
-workouts in the Fitbod app. From there we kept improving it, one measured
-change at a time.
+workouts in the Fitbod app. Then we fixed everything we could measure.
 
 Three things make it worth a look:
 
