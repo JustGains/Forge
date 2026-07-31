@@ -1,0 +1,7082 @@
+{
+ "exercises": [
+  {
+   "exerciseCode": "BARBELL.SQUAT",
+   "exerciseName": "Barbell Squat",
+   "popularityRating": 10,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "POWERLIFTING"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.BENCH.PRESS",
+   "exerciseName": "Barbell Bench Press",
+   "popularityRating": 10,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ],
+     [
+      "EXERCISE_BENCH"
+     ],
+     [
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.ROMANIAN.DEADLIFT",
+   "exerciseName": "Barbell Romanian Deadlift",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.BENT.OVER.ROW",
+   "exerciseName": "Dumbbell Bent-Over Row",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "EXERCISE_BENCH"
+     ],
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.SQUAT",
+   "exerciseName": "Dumbbell Squat",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "PLATE_LOADED"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "PUSH.PRESS",
+   "exerciseName": "Push-Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "LEVER.SEATED.LEG.PRESS",
+   "exerciseName": "Machine Seated Leg Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "LEG_PRESS_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    }
+   ]
+  },
+  {
+   "exerciseCode": "LATERAL.RAISE",
+   "exerciseName": "Dumbbell Lateral Raise",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BALANCE",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 100
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.LYING.FLOOR.SKULLCRUSHER",
+   "exerciseName": "Dumbbell Skullcrusher",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "ISOMETRIC",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 5
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 5
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 90
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.ALTERNATE.BICEPS.CURL",
+   "exerciseName": "Alternating Dumbbell Bicep Curl",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.STANDING.FRENCH.PRESS",
+   "exerciseName": "Dumbbell Standing French Press",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.INCLINE.CHEST.PRESS",
+   "exerciseName": "Dumbbell Incline Chest Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "INCLINE_BENCH",
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 80
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.PUSH.PRESS",
+   "exerciseName": "Dumbbell Push-Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 80
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 70
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RUN",
+   "exerciseName": "Running",
+   "popularityRating": 10,
+   "exerciseTags": [
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE"
+   ],
+   "exerciseTypeCode": "DISTANCE_DURATION",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "WALKING",
+   "exerciseName": "Walking Briskly",
+   "popularityRating": 10,
+   "exerciseTags": [
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE"
+   ],
+   "exerciseTypeCode": "WALKING",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "STEPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "PUSH-UP",
+   "exerciseName": "Push-Up",
+   "popularityRating": 10,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_ONLY",
+    "CALISTHENICS",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.BENCH.PRESS",
+   "exerciseName": "Dumbbell Bench Press",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ],
+     [
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "FRONT.PLANK.M",
+   "exerciseName": "Front Plank",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "ISOMETRIC",
+    "BALANCE"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RUN.ON.TREADMILL",
+   "exerciseName": "Treadmill Run",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "TREADMILL",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "SPEED",
+    "TREADMILL_INCLINE_PERCENTAGE"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "TREADMILL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.CURL",
+   "exerciseName": "Barbell Curl",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 80
+    },
+    {
+     "muscleCode": "WRIST_FLEXORS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "FRONT.ELBOW.PLANK",
+   "exerciseName": "Forearm Plank",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "ISOMETRIC"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": true,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": true,
+     "targetPercentage": 45
+    },
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BURPEE",
+   "exerciseName": "Burpee",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "PLYOMETRIC",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.LOW.BAR.SQUAT",
+   "exerciseName": "Barbell Low-Bar Squat",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "POWERLIFTING"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.DEADLIFT",
+   "exerciseName": "Barbell Deadlift",
+   "popularityRating": 9,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "MOUNTAIN.CLIMBER.WALK",
+   "exerciseName": "Mountain-Climber Walk",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BODYWEIGHT.STANDING.CALF.RAISE",
+   "exerciseName": "Bodyweight Calf Raises",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "MACHINE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "WALKING.ON.TREADMILL",
+   "exerciseName": "Walking Treadmill",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "TREADMILL",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "SPEED",
+    "TREADMILL_INCLINE_PERCENTAGE"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "TREADMILL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ELLIPTICAL.MACHINE.WALK",
+   "exerciseName": "Machine Elliptical Walk",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "DISTANCE_DURATION",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "ELLIPTICAL_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "LEVER.SEATED.ROW",
+   "exerciseName": "Machine Chest Supported Row",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "MACHINE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "PLATE_LOADED_ROW_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.LUNGE",
+   "exerciseName": "Dumbbell Lunge",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "EZ-BARBELL-CURL",
+   "exerciseName": "EZ-Bar Curl",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "EZ_CURL_BAR"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "MINDFUL.BREATHING.MEDITATION",
+   "exerciseName": "Mindful Breathing Meditation",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "STRETCHING",
+    "YOGA"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LEVATOR_SCAPULAE",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "STERNOCLEIDOMASTOID",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.STANDING.OVERHEAD.PRESS",
+   "exerciseName": "Dumbbell Overhead Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CABLE.PUSHDOWN",
+   "exerciseName": "Cable Tricep Rope Pressdown",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "MACHINE",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "STRAIGHT_BAR_ATTACHMENT"
+     ],
+     [
+      "SINGLE_CABLE_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.HAMMER.CURL",
+   "exerciseName": "Dumbbell Hammer Curl",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 45
+    },
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": true,
+     "targetPercentage": 35
+    },
+    {
+     "muscleCode": "WRIST_FLEXORS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.STANDING.MILITARY.PRESS",
+   "exerciseName": "Barbell Standing Military-Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ],
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "BARBELL"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 25
+    }
+   ]
+  },
+  {
+   "exerciseCode": "LUNGE",
+   "exerciseName": "Lunge",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HIGH.KNEE.RUN",
+   "exerciseName": "High-Knee Run",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "HIP_ADDUCTORS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.FEET.FLAT.BENCH.PRESS",
+   "exerciseName": "Barbell Foot Bench Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "WEIGHT_PLATES",
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "LONG-DISTANCE-RUNNING",
+   "exerciseName": "Long Distance Running",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE"
+   ],
+   "exerciseTypeCode": "DISTANCE_DURATION",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.STANDING.SHOULDERS.PRESS",
+   "exerciseName": "Barbell Overhead Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "JUMP.ROPE",
+   "exerciseName": "Jump-Rope",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "BALANCE",
+    "BODYWEIGHT_ONLY"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "JUMP_ROPE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 5
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "WRIST_FLEXORS",
+     "isPrimary": false,
+     "targetPercentage": 5
+    }
+   ]
+  },
+  {
+   "exerciseCode": "STANDING-LATERAL-RAISE",
+   "exerciseName": "Standing Lateral Raise",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "WALKING.LUNGE",
+   "exerciseName": "Walking Lunge",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHTED_BODYWEIGHT",
+   "exerciseMeasurements": [
+    "REPS",
+    "BODYWEIGHT_PLUS_WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "KETTLEBELL.SWING",
+   "exerciseName": "Kettlebell Swing",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "PLYOMETRIC"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "KETTLEBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HIP.THRUSTS",
+   "exerciseName": "Hip Thrust",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "PLATE_LOADED"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "EXERCISE_BENCH",
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HAMSTRING.STRETCH",
+   "exerciseName": "Hamstring Stretch",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "HOME_EXERCISE",
+    "STRETCHING",
+    "UNILATERAL",
+    "LEGS_SPLIT"
+   ],
+   "exerciseTypeCode": "STATIC_STRETCHES",
+   "exerciseMeasurements": [
+    "REPS",
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BASIC.TOE.TOUCH",
+   "exerciseName": "Basic Toe-Tap",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "STRETCHING"
+   ],
+   "exerciseTypeCode": "STATIC_STRETCHES",
+   "exerciseMeasurements": [
+    "REPS",
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": true,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 45
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DOWNWARD.DOG",
+   "exerciseName": "Downward Dog",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "ISOMETRIC",
+    "STRETCHING",
+    "YOGA"
+   ],
+   "exerciseTypeCode": "YOGA",
+   "exerciseMeasurements": [
+    "REPS",
+    "HOLD_DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.WIDE.BENCH.PRESS",
+   "exerciseName": "Barbell Wide Bench Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 65
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "WALKING-ON-SPOT",
+   "exerciseName": "In-Place Walking",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE"
+   ],
+   "exerciseTypeCode": "WALKING",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "STEPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.INCLINE.BENCH.PRESS",
+   "exerciseName": "Barbell Incline Bench Press",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "POWER_TOWER"
+     ],
+     [
+      "INCLINE_BENCH"
+     ],
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "STATIONARY.BIKE.RUN",
+   "exerciseName": "Stationary Bike Run",
+   "popularityRating": 8,
+   "exerciseTags": [
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "CYCLING",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "WATTAGE"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "STATIONARY_BIKE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CAT.COW.STRETCH",
+   "exerciseName": "Cat Cow Stretch",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "STRETCHING",
+    "YOGA"
+   ],
+   "exerciseTypeCode": "YOGA",
+   "exerciseMeasurements": [
+    "REPS",
+    "HOLD_DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "LEVER.LYING.LEG.CURL",
+   "exerciseName": "Machine Lying Leg Curl",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "LEGS_SPLIT",
+    "MACHINE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "LEG_CURL_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CABLE.SEATED.LEG.EXTENSION",
+   "exerciseName": "Cable Seated Leg Extension",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "ENDURANCE",
+    "LEGS_SPLIT",
+    "MACHINE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "SINGLE_CABLE_MACHINE"
+     ],
+     [
+      "ANKLE_CUFF_ATTACHMENT"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "AB.TUCK",
+   "exerciseName": "Vertical Knee Raise",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "CAPTAINS_CHAIR"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ILIOPSOAS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CABLE-SEATED-CHEST-PRESS",
+   "exerciseName": "Cable Seated Chest Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "MACHINE",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "EXERCISE_BENCH",
+      "SINGLE_CABLE_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "STABILITY.BALL.CRUNCH",
+   "exerciseName": "Stability-Ball Crunch",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BALANCE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "HOME_EXERCISE"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "EXERCISE_BALL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CABLE.STANDING.UP.STRAIGHT.CROSSOVERS",
+   "exerciseName": "Cable Cross-Over Fly",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "MACHINE",
+    "PUSH_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "CABLE_HANDLE_ATTACHMENT",
+      "SINGLE_CABLE_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "POWER.CLEAN",
+   "exerciseName": "Power-Clean",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "OLYMPIC_LIFTING",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.CLEAN.AND.JERK",
+   "exerciseName": "Barbell Clean & Jerk",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "OLYMPIC_LIFTING",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 25
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.PAUSED.BENT.OVER.ROW",
+   "exerciseName": "Barbell Bent-Over Paused Row",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "ENDURANCE",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.SQUAT.KNEES.MIDDLE.POSITION",
+   "exerciseName": "Barbell Knee Middle Position Squat",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "POWERLIFTING"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "KETTLEBELL.TWO.ARM.MILITARY.PRESS",
+   "exerciseName": "Kettlebell Overhead Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "KETTLEBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 25
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.POWER.CLEAN",
+   "exerciseName": "Barbell Power-Clean",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "OLYMPIC_LIFTING",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.INCLINE.SHOULDERS.PRESS",
+   "exerciseName": "Barbell Incline Shoulder Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "PLATE_LOADED",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "INCLINE_BENCH",
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SMITH.INCLINE.BENCH.PRESS",
+   "exerciseName": "Smith-Machine Incline Bench Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "MACHINE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "SMITH_MACHINE"
+     ],
+     [
+      "INCLINE_BENCH"
+     ],
+     [
+      "BARBELL"
+     ],
+     [
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.HANG.CLEAN",
+   "exerciseName": "Hang & Power-Clean",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "OLYMPIC_LIFTING",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.LYING.TRICEPS.EXTENSION.SKULL-CRUSHER",
+   "exerciseName": "Barbell Skullcrusher",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "ISOMETRIC",
+    "PLATE_LOADED",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ],
+     [
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 80
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CLOSE-GRIP.PUSH-UP",
+   "exerciseName": "Close-Grip Push-Up",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 35
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.CLEAN.AND.PRESS",
+   "exerciseName": "Barbell Clean & Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "OLYMPIC_LIFTING",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 25
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BOXING.LEFT.HOOK",
+   "exerciseName": "Boxing",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "HOME_EXERCISE",
+    "MARTIAL_ARTS",
+    "UNILATERAL",
+    "ABS_CORE",
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BOXING_BAG"
+     ],
+     [
+      "BOXING_GLOVES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.RUSSIAN.TWIST",
+   "exerciseName": "Dumbbell Russian-Twist",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BALANCE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 5
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": true,
+     "targetPercentage": 45
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 35
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL-ONE-ARM-TRICEPS-EXTENSION",
+   "exerciseName": "Dumbbell Single-Arm Triceps Extension",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "PLATE_LOADED",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "EXERCISE_BENCH",
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 70
+    }
+   ]
+  },
+  {
+   "exerciseCode": "WALKING.ON.STEPMILL",
+   "exerciseName": "Stair Climber",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "STEPS",
+   "exerciseMeasurements": [
+    "DURATION",
+    "STEPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "STAIR_CLIMBER"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 35
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 45
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ROLL.RHOMBOIDS",
+   "exerciseName": "Foam-Roll Upper-Back",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "GOOD_COOLDOWN",
+    "HOME_EXERCISE",
+    "STRETCHING"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "FOAM_ROLLER"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "EZ.BAR.CLOSE.GRIP.BENCH.PRESS",
+   "exerciseName": "EZ-Bar Close-Grip Bench Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "EXERCISE_BENCH"
+     ],
+     [
+      "EZ_CURL_BAR"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 65
+    }
+   ]
+  },
+  {
+   "exerciseCode": "KETTLEBELL.CLEAN.AND.PRESS",
+   "exerciseName": "Kettlebell Clean & Press",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "POWERLIFTING",
+    "PULL_SPLIT",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "KETTLEBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ROWING",
+   "exerciseName": "Machine Cardio Rowing",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "LEGS_SPLIT",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "ROWING",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "WATTAGE"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "CARDIO_ROW_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "AIR.BIKE",
+   "exerciseName": "Air Bike",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ILIOPSOAS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.ONE-ARM.ROW",
+   "exerciseName": "Dumbbell Single-Arm Row",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS",
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HANGING.STRAIGHT.LEG.RAISE",
+   "exerciseName": "Hanging Leg Raise",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "CALISTHENICS",
+    "COMPOUND",
+    "ISOMETRIC"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "PULL_UP_BAR"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ILIOPSOAS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "WRIST_FLEXORS",
+     "isPrimary": false,
+     "targetPercentage": 5
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ROWING.STRAIGHT.BACK",
+   "exerciseName": "Rowing Straight-Back",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "MACHINE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "ROWING",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "WATTAGE"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "CARDIO_ROW_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CABLE-SEATED-FACE-PULL",
+   "exerciseName": "Cable Seated Face Pull",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "MACHINE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "ROPE_ATTACHMENT",
+      "SINGLE_CABLE_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.STANDING.CALF.RAISE",
+   "exerciseName": "Dumbbell Calf Raise",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "JAB.CROSSES",
+   "exerciseName": "Jab Cross",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "MARTIAL_ARTS",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ALTERNATE.PUNCHING",
+   "exerciseName": "Alternating Punching",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "MARTIAL_ARTS",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.SHRUG",
+   "exerciseName": "Barbell Shrug",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND.SQUAT",
+   "exerciseName": "Resistance-Band Squat",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "BALANCE"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.LUNGE",
+   "exerciseName": "Barbell Lunge",
+   "popularityRating": 7,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ],
+     [
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 5
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BAND.FRONT.RAISE",
+   "exerciseName": "Band Front Raise",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND-BICEPS-CURL",
+   "exerciseName": "Resistance-Band Bicep Curl",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND.BENT-OVER-REVERSE-FLY",
+   "exerciseName": "Resistance-Band Reverse Bent-Over Fly",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PULL_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE.BAND.GLUTE.BRIDGE.ABDUCTION",
+   "exerciseName": "Resistance-Band Glute Bridge Abduction",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BALANCE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 35
+    },
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": true,
+     "targetPercentage": 55
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SIDE.WALK.SQUAT",
+   "exerciseName": "Side-Walk Squat",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND.STANDING-LAT-PULLDOWN",
+   "exerciseName": "Resistance-Band Standing Lat Pulldown",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "PULL_UP_BAR",
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "KETTLEBELL.ONE.ARM.CLEAN.AND.JERK",
+   "exerciseName": "Kettlebell Single-Arm Clean & Jerk",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "KETTLEBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.REVERSE.CURL",
+   "exerciseName": "Barbell Reverse Curl",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": false,
+     "targetPercentage": 5
+    },
+    {
+     "muscleCode": "BRACHIORADIALIS",
+     "isPrimary": true,
+     "targetPercentage": 45
+    },
+    {
+     "muscleCode": "WRIST_EXTENSORS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.REAR.DELT.RAISE",
+   "exerciseName": "Barbell Rear-Delt Raise",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "PULL_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BATTLING.ROPES.JUMPING.JACK",
+   "exerciseName": "Battle-Rope Jumping-Jack",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "CARDIO",
+    "COMPOUND",
+    "ENDURANCE",
+    "GOOD_WARMUP",
+    "PLYOMETRIC"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BATTLE_ROPES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "EZ.BAR.STANDING.UPRIGHT.ROW",
+   "exerciseName": "EZ-Bar Standing Upright Row",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "GOOD_WARMUP",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "EZ_CURL_BAR",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "INFRASPINATUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BODYWEIGHT.ROW.IN.DOORWAY",
+   "exerciseName": "Bodyweight Standing Inverted Row",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.POWER.JERK",
+   "exerciseName": "Split Jerk",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "OLYMPIC_LIFTING",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.FLOOR.CALF.RAISE",
+   "exerciseName": "Barbell Floor Calf Raise",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": true,
+     "targetPercentage": 75
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": true,
+     "targetPercentage": 25
+    }
+   ]
+  },
+  {
+   "exerciseCode": "FARMERS.WALK",
+   "exerciseName": "Dumbbell Farmer Walk",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "ENDURANCE",
+    "PULL_SPLIT",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_DISTANCE",
+   "exerciseMeasurements": [
+    "WEIGHT",
+    "DISTANCE"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS",
+      "KETTLEBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GRACILIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HIP.ABDUCTION",
+   "exerciseName": "Hip Abduction",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "HOME_EXERCISE",
+    "ISOMETRIC",
+    "LEGS_SPLIT",
+    "UNILATERAL",
+    "GOOD_WARMUP"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "CHAIR"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "SARTORIUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TENSOR_FASCIAE_LATAE",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "GLUTEUS_MINIMUS",
+     "isPrimary": true,
+     "targetPercentage": 45
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BAND.PUSHDOWN",
+   "exerciseName": "Band Tricep Pushdown",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "PULL_UP_BAR",
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BAND.PUSH.UP",
+   "exerciseName": "Band Push-Up",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.LYING.REAR.DELT.ROW",
+   "exerciseName": "Dumbbell Lying Rear-Delt Row",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS",
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HALF.CHEST.FLY",
+   "exerciseName": "Half Chest Fly",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "MACHINE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "SINGLE_CABLE_MACHINE",
+      "DUMBBELLS",
+      "CABLE_HANDLE_ATTACHMENT"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "STANDING.BUTT.KICK",
+   "exerciseName": "Standing Butt-Kick",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "CARDIO",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ALTERNATE-SIDE-PLANK-LEG-LIFT",
+   "exerciseName": "Alternating Leg Lift Side-Plank",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BALANCE",
+    "BODYWEIGHT_ONLY",
+    "HOME_EXERCISE",
+    "ISOMETRIC",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND.SINGLE-ARM-LOW-CHEST-FLY",
+   "exerciseName": "Resistance-Band Single-Arm Low Chest Fly",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 25
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.INCLINE.CURL.II",
+   "exerciseName": "Alternating Dumbbell Incline II Curl",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "PLATE_LOADED",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "INCLINE_BENCH"
+     ],
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 80
+    },
+    {
+     "muscleCode": "BRACHIORADIALIS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CABLE-LEANING-LATERAL-RAISE",
+   "exerciseName": "Cable Lateral Leaning Raise",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ENDURANCE",
+    "MACHINE",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "BALANCE",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "SINGLE_HANDLE_ATTACHMENT"
+     ],
+     [
+      "SINGLE_CABLE_MACHINE"
+     ],
+     [
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "SUPRASPINATUS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.WIDE.GRIP.UPRIGHT.ROW",
+   "exerciseName": "Barbell Wide-Grip Upright Row",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.WIDE.SHRUG",
+   "exerciseName": "Barbell Wide Shrug",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "ENDURANCE",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LEVATOR_SCAPULAE",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.SHRUG",
+   "exerciseName": "Dumbbell Shrug",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PULL_SPLIT",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "WRIST_FLEXORS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "KETTLEBELL.TWO.ARM.CLEAN",
+   "exerciseName": "Kettlebell Two-Arm Clean",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "KETTLEBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SEATED-SIDE-BEND-SHOULDER-STRETCH",
+   "exerciseName": "Seated Overhead Triceps Extension Stretch",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "STRETCHING",
+    "GOOD_COOLDOWN"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 90
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND-PULL-APART",
+   "exerciseName": "Resistance-Band Pull-Apart",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "PULL_SPLIT",
+    "GOOD_WARMUP",
+    "PREGNANCY"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "STATIONARY.BIKE.WALK",
+   "exerciseName": "Stationary Bike Walk",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "CARDIO",
+    "ENDURANCE",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "MACHINE"
+   ],
+   "exerciseTypeCode": "CYCLING",
+   "exerciseMeasurements": [
+    "DISTANCE",
+    "DURATION",
+    "WATTAGE"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "STATIONARY_BIKE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "SOLEUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "WEIGHTED.HYPEREXTENSION",
+   "exerciseName": "Weighted Hyperextension",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BALANCE",
+    "COMPOUND",
+    "ENDURANCE",
+    "MACHINE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "HYPEREXTENSION_BENCH"
+     ],
+     [
+      "DUMBBELLS"
+     ],
+     [
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 25
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SUPERMAN-BACK-RAISE",
+   "exerciseName": "Back Raise Superman",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "ISOMETRIC",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": [
+     [
+      "YOGA_MAT"
+     ]
+    ]
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ELBOW-EXTENSION",
+   "exerciseName": "Elbow Extension",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "BODYWEIGHT_ONLY",
+    "GOOD_WARMUP",
+    "ISOMETRIC"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ROLL.BALL.LOWER.BACK",
+   "exerciseName": "Foam-Roll Lower-Back Mobilisation",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "STRETCHING"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "FOAM_ROLLER"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 15
+    }
+   ]
+  },
+  {
+   "exerciseCode": "CABLE-STANDING-REVERSE-CURL",
+   "exerciseName": "Cable Standing Reverse Curl",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "MACHINE",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "ENDURANCE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "ROPE_ATTACHMENT",
+      "SINGLE_CABLE_MACHINE",
+      "STRAIGHT_BAR_ATTACHMENT"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BRACHIALIS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "BRACHIORADIALIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "90.TO.90.STRETCH",
+   "exerciseName": "Bodyweight 90-To-90 Hip Stretch",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "STRETCHING",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "DEEP_HIP_EXTERNAL_ROTATORS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SMITH.SUMO.SQUAT",
+   "exerciseName": "Smith-Machine Sumo Squat",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "MACHINE",
+    "POWERLIFTING",
+    "PLATE_LOADED"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "SMITH_MACHINE",
+      "WEIGHT_PLATES"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "KETTLEBELL-SINGLE.CLEAN.PUSH-PRESS",
+   "exerciseName": "Kettlebell Single-Arm Clean & Push-Press",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT",
+    "PUSH_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "KETTLEBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.SINGLE.LEG.GLUTE.BRIDGE",
+   "exerciseName": "Dumbbell Single-Leg Glute Bridge",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "HOME_EXERCISE",
+    "LEGS_SPLIT",
+    "PLATE_LOADED",
+    "UNILATERAL",
+    "COMPOUND"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS"
+     ],
+     [
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "STANDING.LEG.CURL",
+   "exerciseName": "Standing Leg Curl",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "LEGS_SPLIT",
+    "MACHINE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "LEG_CURL_MACHINE",
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.DECLINE.SIT.UP",
+   "exerciseName": "Dumbbell Decline Sit-Up",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ABS_CORE",
+    "COMPOUND",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "PLATE_LOADED"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DECLINE_BENCH",
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 100
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL.BENT.OVER.SCAPULA.ROW",
+   "exerciseName": "Dumbbell Bent-Over Scapula Row",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "EXERCISE_BENCH",
+      "DUMBBELLS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.MUSCLE.CLEAN",
+   "exerciseName": "Barbell Muscle Clean",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "OLYMPIC_LIFTING",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "BICEPS_BRACHII",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_CLAVICULAR_HEAD",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.FLOOR.CHEST.PRESS",
+   "exerciseName": "Barbell Floor Chest Press",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "PLATE_LOADED",
+    "PUSH_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "PECTORALIS_MAJOR_STERNAL_HEAD",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRICEPS_BRACHII",
+     "isPrimary": false,
+     "targetPercentage": 25
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ARM.CIRCLES",
+   "exerciseName": "Forward Arm Circles",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "PUSH_SPLIT",
+    "STRETCHING",
+    "ENDURANCE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "ANTERIOR_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "LATERAL_DELTOID",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "SERRATUS_ANTERIOR",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SMITH.BACK.SHRUG",
+   "exerciseName": "Smith-Machine Close-Grip Back Shrug",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "MACHINE",
+    "PLATE_LOADED",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES"
+     ],
+     [
+      "SMITH_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "WRIST_FLEXORS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.ROLLOUT",
+   "exerciseName": "Barbell Roll-Out",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BALANCE",
+    "COMPOUND",
+    "ISOMETRIC",
+    "PLATE_LOADED"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ILIOPSOAS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HIP.CLAM",
+   "exerciseName": "Hip Clam",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "ISOMETRIC",
+    "LEGS_SPLIT",
+    "UNILATERAL",
+    "BALANCE"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GLUTEUS_MEDIUS",
+     "isPrimary": false,
+     "targetPercentage": 0
+    },
+    {
+     "muscleCode": "GLUTEUS_MINIMUS",
+     "isPrimary": false,
+     "targetPercentage": 0
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 0
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 0
+    }
+   ]
+  },
+  {
+   "exerciseCode": "WRIST.CIRCLES",
+   "exerciseName": "Wrist Circles",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BODYWEIGHT_ONLY",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "HOME_EXERCISE",
+    "STRETCHING"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "WRIST_EXTENSORS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    },
+    {
+     "muscleCode": "WRIST_FLEXORS",
+     "isPrimary": true,
+     "targetPercentage": 50
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SLED.HACK.SQUAT",
+   "exerciseName": "Sled Hack Squat",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "LEGS_SPLIT",
+    "MACHINE",
+    "POWERLIFTING"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "HACK_SQUAT_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "GASTROCNEMIUS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "QUADRICEPS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    }
+   ]
+  },
+  {
+   "exerciseCode": "HANGING.KNEES.TO.ELBOWS",
+   "exerciseName": "Hanging Knee-To-Elbow",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_ONLY",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "CALISTHENICS",
+    "COMPOUND",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "REPS_ONLY",
+   "exerciseMeasurements": [
+    "REPS"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "PULL_UP_BAR"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "HIP_ADDUCTORS",
+     "isPrimary": true,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "ILIOPSOAS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": true,
+     "targetPercentage": 35
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    },
+    {
+     "muscleCode": "TRANSVERSE_ABDOMINUS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "DUMBBELL-SINGLE-ARM-REVERSE-FLY",
+   "exerciseName": "Dumbbell Single-Arm Reverse Fly",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "BALANCE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "HOME_EXERCISE",
+    "PULL_SPLIT",
+    "UNILATERAL",
+    "WEIGHT_PER_SIDE"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": true,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "DUMBBELLS",
+      "EXERCISE_BENCH"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "INFRASPINATUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "RHOMBOIDS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "BARBELL.RACK.PULL",
+   "exerciseName": "Rack Pull",
+   "popularityRating": 6,
+   "exerciseTags": [
+    "COMPOUND",
+    "PLATE_LOADED",
+    "POWERLIFTING",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "WEIGHT_PLATES",
+      "BARBELL"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": true,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "GLUTEUS_MAXIMUS",
+     "isPrimary": true,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "HAMSTRINGS",
+     "isPrimary": true,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 50
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND.STANDING-WOOD-CHOPPER",
+   "exerciseName": "Resistance-Band Standing Wood Chopper",
+   "popularityRating": 5,
+   "exerciseTags": [
+    "ABS_CORE",
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "COMPOUND",
+    "HOME_EXERCISE",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LATISSIMUS_DORSI",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "OBLIQUES",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "RECTUS_ABDOMINIS",
+     "isPrimary": true,
+     "targetPercentage": 40
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": false,
+     "targetPercentage": 20
+    }
+   ]
+  },
+  {
+   "exerciseCode": "SMITH.BACK.WIDE.SHRUG",
+   "exerciseName": "Smith-Machine Back Shrug",
+   "popularityRating": 5,
+   "exerciseTags": [
+    "COMPOUND",
+    "MACHINE",
+    "PULL_SPLIT"
+   ],
+   "exerciseTypeCode": "WEIGHT_REPS",
+   "exerciseMeasurements": [
+    "REPS",
+    "WEIGHT"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "SMITH_MACHINE"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "LEVATOR_SCAPULAE",
+     "isPrimary": true,
+     "targetPercentage": 15
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 10
+    },
+    {
+     "muscleCode": "TRAPEZIUS_UPPER_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 65
+    },
+    {
+     "muscleCode": "WRIST_EXTENSORS",
+     "isPrimary": false,
+     "targetPercentage": 10
+    }
+   ]
+  },
+  {
+   "exerciseCode": "ROLL.MIDDLE.BACK.LYING.ON.FLOOR",
+   "exerciseName": "Floor Lying Mid-Back Roll",
+   "popularityRating": 5,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "GOOD_COOLDOWN",
+    "GOOD_WARMUP",
+    "STRETCHING"
+   ],
+   "exerciseTypeCode": "DURATION",
+   "exerciseMeasurements": [
+    "DURATION"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "FOAM_ROLLER"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "ERECTOR_SPINAE",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TRAPEZIUS_MIDDLE_FIBERS",
+     "isPrimary": true,
+     "targetPercentage": 70
+    }
+   ]
+  },
+  {
+   "exerciseCode": "RESISTANCE-BAND-SHOULDER-EXTERNAL-ROTATION.SUPP",
+   "exerciseName": "Resistance-Band Shoulder External in Sup Rotation",
+   "popularityRating": 5,
+   "exerciseTags": [
+    "BODYWEIGHT_WITH_EQUIPMENT",
+    "ENDURANCE",
+    "HOME_EXERCISE",
+    "PULL_SPLIT",
+    "UNILATERAL"
+   ],
+   "exerciseTypeCode": "EXERCISE_BANDS",
+   "exerciseMeasurements": [
+    "REPS",
+    "RESISTANCE_BAND"
+   ],
+   "isWeightPerSide": false,
+   "exerciseEquipment": {
+    "required": [
+     [
+      "RESISTANCE_BANDS",
+      "CHAIR"
+     ]
+    ],
+    "optional": []
+   },
+   "exerciseMuscles": [
+    {
+     "muscleCode": "INFRASPINATUS",
+     "isPrimary": true,
+     "targetPercentage": 60
+    },
+    {
+     "muscleCode": "POSTERIOR_DELTOID",
+     "isPrimary": false,
+     "targetPercentage": 20
+    },
+    {
+     "muscleCode": "SUBSCAPULARIS",
+     "isPrimary": false,
+     "targetPercentage": 30
+    },
+    {
+     "muscleCode": "TERES_MINOR",
+     "isPrimary": true,
+     "targetPercentage": 40
+    }
+   ]
+  }
+ ]
+}

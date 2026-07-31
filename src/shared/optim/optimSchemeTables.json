@@ -1,0 +1,1279 @@
+{
+  "bodybuildingTier1SetsReps": [
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 6,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 6,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    }
+  ],
+  "bodybuildingTier2SetsReps": [
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    }
+  ],
+  "bodybuildingTier3SetsReps": [
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    }
+  ],
+  "bodybuildingTier4SetsReps": [
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    }
+  ],
+  "bodyweightBeginnerRepsScaleLowSetsReps": [
+    {
+      "sets": 3,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 1,
+      "weight": 0
+    }
+  ],
+  "bodyweightBeginnerRepsScaleMidSetsReps": [
+    {
+      "sets": 3,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 4,
+      "weight": 0
+    }
+  ],
+  "bodyweightBeginnerRepsScaleHighSetsReps": [
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 8,
+      "weight": 0
+    }
+  ],
+  "bodyweightIntermediateRepsScaleLowSetsReps": [
+    {
+      "sets": 3,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 2,
+      "weight": 0
+    }
+  ],
+  "bodyweightIntermediateRepsScaleMidSetsReps": [
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    }
+  ],
+  "bodyweightIntermediateRepsScaleHighSetsReps": [
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 8,
+      "weight": 0
+    }
+  ],
+  "bodyweightAdvancedRepsScaleLowSetsReps": [
+    {
+      "sets": 3,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 3,
+      "weight": 0
+    }
+  ],
+  "bodyweightAdvancedRepsScaleMidSetsReps": [
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    }
+  ],
+  "bodyweightAdvancedRepsScaleHighSetsReps": [
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 10,
+      "weight": 0
+    }
+  ],
+  "generalFitnessEarlyTierSetsReps": [
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    }
+  ],
+  "generalFitnessLateTierSetsReps": [
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 20,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    }
+  ],
+  "olyTier1SetsReps": [
+    {
+      "sets": 10,
+      "reps": 1,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 10,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 1,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 6,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 1,
+      "weight": 0
+    },
+    {
+      "sets": 12,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 12,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 6,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 6,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 10,
+      "reps": 1,
+      "weight": 0
+    },
+    {
+      "sets": 12,
+      "reps": 1,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 8,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 12,
+      "reps": 1,
+      "weight": 0
+    },
+    {
+      "sets": 10,
+      "reps": 2,
+      "weight": 0
+    }
+  ],
+  "powerTier1SetsReps": [
+    {
+      "sets": 3,
+      "reps": 15,
+      "weight": 0
+    },
+    {
+      "sets": 1,
+      "reps": 1,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 2,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 7,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 7,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 5,
+      "weight": 0
+    }
+  ],
+  "strengthTier1SetsReps": [
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 6,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 4,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 6,
+      "reps": 3,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 4,
+      "weight": 0
+    }
+  ],
+  "strengthTier2SetsReps": [
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 5,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 6,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 5,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    }
+  ],
+  "strengthTier3SetsReps": [
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 4,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    }
+  ],
+  "strengthTier4SetsReps": [
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 10,
+      "weight": 0
+    },
+    {
+      "sets": 2,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 12,
+      "weight": 0
+    },
+    {
+      "sets": 3,
+      "reps": 8,
+      "weight": 0
+    }
+  ]
+}
