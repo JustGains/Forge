@@ -9,8 +9,8 @@
 # Forge
 
 Forge is the workout generator inside [JustGains](https://justgains.com). It
-started as an exact copy of the local AI model that powers workouts in the
-Fitbod app. From there we improved it, one measured change at a time.
+started as a faithful recreation of the local AI model that powers workouts
+in the Fitbod app. From there we improved it, one measured change at a time.
 
 Three things make it worth a look:
 
@@ -56,14 +56,13 @@ The output looks like this:
 
 Fitbod ships a complete workout generator inside its app. It runs locally, as
 a fallback for when the servers can't be reached. We recovered that algorithm
-and rebuilt it exactly: the exercise-count model, the six-utility ranking,
+and recreated it faithfully: the exercise-count model, the six-utility ranking,
 the muscle recovery decay, the load formulas, and all 21 goal-specific
 periodization tables.
 
-The copy is still in this repo, and we haven't changed a byte of its
-behavior. Run `generateOptimDemo` with no flags and you get Fitbod's
-recovered logic exactly. That's the baseline every improvement gets measured
-against.
+That recreation is still in this repo, and its behavior is unchanged. Run
+`generateOptimDemo` with no flags and you get Fitbod's recovered logic
+exactly. That's the baseline every improvement gets measured against.
 
 The improvements are stacked on top. Each one solves a specific problem we
 could measure, and each was tested with the bundled workshop harness across
