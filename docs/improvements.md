@@ -98,10 +98,3 @@ confession, determinism. Quality metrics (window utilization, muscle
 balance, accessory variety, prescription error against a known synthetic
 athlete) are aggregated per run and diffable between runs. If you change the
 engine, the workshop tells you what you actually changed.
-
-## Still on the recovered engine's side of the ledger
-
-Fitbod ships things Forge does not have yet: per-exercise dislike learning,
-a user-owned gym inventory with custom equipment weights, and multi-week
-training blocks. Forge's engine has the input seams for all three; the
-product surfaces have not been built.
